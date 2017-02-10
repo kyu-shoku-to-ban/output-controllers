@@ -1,1 +1,3 @@
 # output-controllers
+サイクルチェンジャー用のArduinoスケッチ
+Konashiからのinputを受けてLEDを制御します。
